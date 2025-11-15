@@ -1,4 +1,8 @@
-## Generador de Contraseñas Seguras (CLI)
+<h1 align="center">Generador de Contraseñas Seguras (CLI)</h1>
+
+<p align="center">
+  <img src="https://github.com/drmagestad/Pass-Gen/blob/a837f1cb2e568d30665c7895190c86ab56922c8b/img/pass-gen-usage.png" alt="INFO" />
+</p>
 
 Este proyecto es un generador de contraseñas seguras escrito en Python, diseñado para ofrecer combinaciones robustas utilizando fuentes criptográficamente seguras. Permite personalizar la longitud, la cantidad de contraseñas y los tipos de caracteres incluidos, manteniendo siempre un nivel alto de seguridad.
 
