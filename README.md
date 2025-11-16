@@ -50,5 +50,12 @@ python password_generator.py --no-symbols
 python password_generator.py --no-lower --no-symbols
 ```
 
+---
+
+### Notas finales
+
+Este generador de contraseñas lo hice después de ver varios proyectos similares en YouTube, Reddit y algunos foros. Quería probar cómo se estructuran y funcionan este tipo de scripts, y a la vez, entender mejor algunos conceptos básicos de seguridad y manejo de contraseñas en Python.
+
+Es un proyecto sencillo, pero me ayudó a practicar con temas como la selección aleatoria segura, el manejo de argumentos en la línea de comandos y la organización del código.  
 
 
