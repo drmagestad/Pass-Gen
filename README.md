@@ -10,7 +10,6 @@ Este proyecto es un generador de contraseñas seguras escrito en Python, diseña
 - Garantiza al menos un carácter de cada tipo seleccionado.  
 - Usa `secrets` para selección criptográficamente segura.  
 - Mezcla final con `random.SystemRandom()` para evitar patrones.  
-- Código comentado en español para fácil comprensión.  
 
 <p align="center">
   <img src="https://github.com/drmagestad/Pass-Gen/blob/a837f1cb2e568d30665c7895190c86ab56922c8b/img/pass-gen-usage.png" alt="INFO" />
@@ -20,8 +19,15 @@ Este proyecto es un generador de contraseñas seguras escrito en Python, diseña
 
 En la línea de comandos:
 
+- Mostrar la ayuda completa del script
+
 ```bash
 python password_generator.py --help
+```
+- Asignacion de valores a las variables 
+
+```bash
 python password_generator.py -l 16 -n 5
-python password_generator.py --length 12 --count 3 --no-symbols
+```
+
 
